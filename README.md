@@ -1,7 +1,7 @@
-# system-design-architecture-patterns-
-system-design-architecture-patterns 
 
 # System Design & Architecture Patterns
+system-design-architecture-patterns 
+
 
 This repository provides curated knowledge, real-world blueprints, and working code samples for designing scalable, secure, and performant software systems.
 
