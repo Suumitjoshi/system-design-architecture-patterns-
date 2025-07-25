@@ -1,4 +1,9 @@
 WIP
+A sample blue print of Scalable, high available, Disaster Recovery, Observability & Monitoring , highly Secure dream Architecture
+
+![azure_microservices_architecture-Multiregion microservices](https://github.com/user-attachments/assets/d853710f-4bfe-4742-9849-585776f0490b)
+
+
 # System Design & Architecture Patterns
 system-design-architecture-patterns 
 
