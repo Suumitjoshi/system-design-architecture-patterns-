@@ -1,4 +1,5 @@
 WIP
+
 A sample blue print of Scalable, high available, Disaster Recovery, Observability & Monitoring , highly Secure dream Architecture
 We will discuess each and every aspect in detail of this blue-print
 
